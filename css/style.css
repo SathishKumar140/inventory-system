@@ -1,0 +1,50 @@
+
+.invtop
+{
+	height: 120px;
+
+}
+
+.volume_head
+{
+	margin-top: 17% ;
+}
+.navbar-header img
+{
+	float: left;
+	padding: 20px;
+}
+.invnav
+{
+	padding: 40px;
+	font-size: 16px;
+}
+.navbar-header a
+{
+	color: #fff;
+	text-decoration: none;
+	width: 300px;
+}
+.add 
+{
+	margin-left: 35%;
+}
+.add td
+{
+	padding: 10px;
+}
+.add input[type="text"]
+{
+	padding: 5px;
+	width: 200px;
+}
+
+.gap
+{
+	margin-left: 10px;
+}
+
+#myDiv
+{
+	margin-top: 15px;
+}
